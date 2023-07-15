@@ -1,4 +1,4 @@
-# intelunnati_TechKnights
+# intelunnati_TechKnights   
 Fake News Detection Using Python And Machine Learning Using LSTM
 To run the above fake news detection code we need a system installed with following packages :
   1)pandas: A library for data manipulation and analysis.
